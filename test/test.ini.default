@@ -1,0 +1,16 @@
+;megacomment
+orphan_string='def_orph_str'
+orphan_array[]='def_orph_arr1'
+orphan_array[]='def_orph_arr2'
+[empty_section]
+[filled_section]
+int_val=54
+array1[]='def_ddd'
+array1[]=42
+str='def_str'
+[section2]
+sec2_str1='def_sec2_value1'
+sec2_bool=false
+sec2_arr[]='def_sec2_arr1'
+sec2_arr[]='def_sec2_arr2'
+sec2_arr[]='def_sec2_arr3'

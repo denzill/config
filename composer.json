@@ -1,0 +1,27 @@
+{
+    "name": "denzill/config",
+    "description": "Ini-files reader and writer",
+    "type": "library",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "kachurin",
+            "email": "d.kachurin@isida.by"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Config\\": "src/Config"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Config\\": "test/Config"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.8.x-dev"
+    }
+}
