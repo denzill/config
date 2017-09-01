@@ -1,5 +1,6 @@
 {
     "name": "denzill/config",
+    "version": "0.5a",
     "description": "Ini-files reader and writer",
     "type": "library",
     "license": "Free",
